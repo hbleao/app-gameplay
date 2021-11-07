@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
- <img src="./src/screen.png" alt="NLW 06" />
+ <img src="./assets/screen.png" alt="NLW 06" />
 </div>
 
 
