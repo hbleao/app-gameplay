@@ -3,12 +3,13 @@
     "name": "gameplay",
     "slug": "gameplay",
     "version": "1.0.0",
+    "scheme": "gameplay",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#070B24"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,7 +23,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#070B24"
       }
     },
     "web": {
